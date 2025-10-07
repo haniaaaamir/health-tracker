@@ -13,7 +13,7 @@ Select:
 - Qt Creator IDE
 
 2. Clone:
-- git clone https://github.com/haniaaaamir/HealthTracker.git
+- git clone https://github.com/haniaaaamir/health-tracker.git
 - cd HealthTracker
 
 3. Open in Qt Creator:
